@@ -1,0 +1,27 @@
+[
+  {
+    "titulo": "Início",
+    "imagem": "/assets/icones/home-ativo.png",
+    "id": "1"
+  },
+  {
+    "titulo": "Mais curtidas",
+    "imagem": "/assets/icones/mais-curtidas-inativo.png",
+    "id": "2"
+  },
+  {
+    "titulo": "Mais vistas",
+    "imagem": "/assets/icones/mais-vistas-inativo.png",
+    "id": "3"
+  },
+  {
+    "titulo": "Novas",
+    "imagem": "/assets/icones/novas-inativo.png",
+    "id": "4"
+  },
+  {
+    "titulo": "Surpreenda-me",
+    "imagem": "/assets/icones/surpreenda-me-inativo.png",
+    "id": "5"
+  }
+]
